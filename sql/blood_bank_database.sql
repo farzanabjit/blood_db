@@ -1,4 +1,4 @@
-GRANT ALL PRIVILEGES ON *.* TO 'root'@'10.0.0.8' IDENTIFIED BY '' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.56.117' IDENTIFIED BY '' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 
 create database blood_donation; /* creating database*/
